@@ -8,10 +8,7 @@
 [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>](https://t.me/ZUSSS666)
 [<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'>](https://www.instagram.com/ruslant86/)
 
-### Current project 
 
-
-[<img src='https://img.shields.io/badge/spot-github?logo=github&color=black'>](https://github.com/ZUS666/spot)
 
 ### Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZUS666&rank=SSS,SS,S,AAA,AA,A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
